@@ -3,3 +3,5 @@
 
 .env Sample
 
+PORT=
+MONGODB_URI=
